@@ -12,6 +12,8 @@ import javax.imageio.ImageIO;
  * Main class for running ImageSizer. When compiled as a jar file, specify this
  * class as the main class in order to run like: java -jar ImageSizer.jar ImageIn.jpg ImageOut.jpg
  * 
+ * Further documentation available on GitHub Wiki page: https://github.com/kiprobinson/ImageSizer/wiki
+ * 
  * @author Kip Robinson, https://github.com/kiprobinson
  */
 public final class Main
